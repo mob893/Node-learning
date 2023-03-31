@@ -1,0 +1,29 @@
+{
+  "name": "nodelearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob893/Node-learning.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "learning",
+    "nodelearning",
+    "2023"
+  ],
+  "author": "mob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mob893/Node-learning/issues"
+  },
+  "homepage": "https://github.com/mob893/Node-learning#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
